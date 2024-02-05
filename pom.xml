@@ -83,15 +83,6 @@
             <version>${jstl.version}</version>
         </dependency>
 
-        <distributionManagement>
-            <repository>
-                <id>venuLogin</id>
-                <url>https://maven.pkg.github.com/venuagurla19/venuLogin</url>
-            </repository>
-        </distributionManagement>
-        
-        
-
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
