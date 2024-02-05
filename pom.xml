@@ -86,9 +86,10 @@
         <distributionManagement>
             <repository>
                 <id>venuLogin</id>
-                <url>https://github.com/venuagurla19/venuLogin.git</url>
+                <url>https://maven.pkg.github.com/venuagurla19/venuLogin</url>
             </repository>
         </distributionManagement>
+        
         
 
         <dependency>
